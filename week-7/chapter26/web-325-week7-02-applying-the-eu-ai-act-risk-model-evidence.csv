@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,intended_purpose,context,affected_party,consequence,human_role,transparency,evidence_issue
+W7R2-01,BluePeak Recruiting,Applying the EU AI Act Risk Model,Answer product questions,Retail site,Customer,Low,Monitor quality,AI disclosed,Complete
+W7R2-02,BluePeak Recruiting,Applying the EU AI Act Risk Model,Rank job applicants,Employment,Applicant,High,Select interview pool,No notice,Human authority unclear
+W7R2-03,BluePeak Recruiting,Applying the EU AI Act Risk Model,Detect safety hazard,Critical service,Public,High,Approve shutdown,Internal only,Control test missing
+W7R2-04,BluePeak Recruiting,Applying the EU AI Act Risk Model,Generate public images,Advertising,Public,Moderate,Approve publication,Labels inconsistent,Version missing
+W7R2-05,BluePeak Recruiting,Applying the EU AI Act Risk Model,Prioritize admissions,Education,Applicant,High,Review top candidates,General notice,Classification absent
+W7R2-06,BluePeak Recruiting,Applying the EU AI Act Risk Model,Category 1 — Unacceptable Risk,Internal operations,Employee,Low,Reverse result,Help page,Current version verified

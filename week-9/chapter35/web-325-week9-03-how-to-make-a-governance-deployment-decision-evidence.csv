@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,governance_area,requirement,evidence,status,owner,due,validation_issue
+W9R3-01,Silverline Health,How to Make a Governance Deployment Decision,Authority,Actions match delegated authority,Approved matrix,Complete,Governance,Before launch,None noted
+W9R3-02,Silverline Health,How to Make a Governance Deployment Decision,Oversight,High-impact approval tested,Routine test only,Incomplete,Operations,Before launch,High-impact path untested
+W9R3-03,Silverline Health,How to Make a Governance Deployment Decision,Risk,Critical risks treated,Current register,Complete,Risk,Before launch,None noted
+W9R3-04,Silverline Health,How to Make a Governance Deployment Decision,Privacy,Rights workflow operates,Policy only,Incomplete,Privacy,Before launch,Production evidence absent
+W9R3-05,Silverline Health,How to Make a Governance Deployment Decision,Transparency,Disclosure is traceable,Unversioned screenshot,Incomplete,Product,Before launch,Version absent
+W9R3-06,Silverline Health,How to Make a Governance Deployment Decision,Monitoring,Step 1 — Confirm the Purpose,Uptime dashboard,Missing,Engineering,Before launch,Impact measures absent

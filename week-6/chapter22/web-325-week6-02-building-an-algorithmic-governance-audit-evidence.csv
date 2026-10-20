@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,control_claim,design_evidence,operating_evidence,sample_period,owner,validation_status
+W6R2-01,Redwood Payments,Building an Algorithmic Governance Audit,High-impact actions require approval,Approved policy,Approval IDs for all samples,90 days,Operations,Supported
+W6R2-02,Redwood Payments,Building an Algorithmic Governance Audit,Exceptions receive review,Workflow diagram,No review log,None,Governance,Not supported
+W6R2-03,Redwood Payments,Building an Algorithmic Governance Audit,Changes require approval,Change policy,Three of five tickets,Six months,Engineering,Partially supported
+W6R2-04,Redwood Payments,Building an Algorithmic Governance Audit,Disclosure remains active,Interface standard,Screenshot without version,One day,Product,Inconclusive
+W6R2-05,Redwood Payments,Building an Algorithmic Governance Audit,Risk monitoring is quarterly,Monitoring plan,Current report,One quarter,Risk,Supported
+W6R2-06,Redwood Payments,Building an Algorithmic Governance Audit,Start With Governance Requirements,Remediation process,Open ticket without owner,Two quarters,Governance,Not operating

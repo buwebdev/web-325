@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,participant,action,stated_authority,next_owner,decision_evidence,validation_issue
+W3R2-01,Lakeview Financial,Decision Authority and Approval Boundaries,System,Flag exception,Recommend only,Operator,Event record complete,None noted
+W3R2-02,Lakeview Financial,Decision Authority and Approval Boundaries,Operator,Defer decision,Route routine cases,Manager,Reason missing,Decision basis absent
+W3R2-03,Lakeview Financial,Decision Authority and Approval Boundaries,Manager,Request specialist review,Approve within limit,Specialist,Request recorded,Deadline missing
+W3R2-04,Lakeview Financial,Decision Authority and Approval Boundaries,Specialist,Confirm risk,Advise only,Operator,Finding recorded,Final owner unclear
+W3R2-05,Lakeview Financial,Decision Authority and Approval Boundaries,System,Continue operation,No final authority,None,No approval ID,Unauthorized outcome
+W3R2-06,Lakeview Financial,Decision Authority and Approval Boundaries,Executive owner,Stop operation,Emergency authority,Governance,Decision complete,Late intervention

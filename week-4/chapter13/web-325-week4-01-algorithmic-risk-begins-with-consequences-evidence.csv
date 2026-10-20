@@ -1,0 +1,9 @@
+record_id,organization,chapter_focus,segment,eligible,positive_outcome,wait_hours,appealed,appeal_changed,data_quality
+W4R1-01,Ridgeway Staffing,Algorithmic Risk Begins With Consequences,A,Yes,Yes,2,No,No,Complete
+W4R1-02,Ridgeway Staffing,Algorithmic Risk Begins With Consequences,B,Yes,No,18,Yes,Yes,Complete
+W4R1-03,Ridgeway Staffing,Algorithmic Risk Begins With Consequences,A,Yes,Yes,3,No,No,Complete
+W4R1-04,Ridgeway Staffing,Algorithmic Risk Begins With Consequences,B,Yes,No,21,Yes,Yes,Decision reason missing
+W4R1-05,Ridgeway Staffing,Algorithmic Risk Begins With Consequences,A,No,No,12,No,No,Eligibility evidence incomplete
+W4R1-06,Ridgeway Staffing,Algorithmic Risk Begins With Consequences,B,Yes,Yes,4,No,No,Complete
+W4R1-07,Ridgeway Staffing,Algorithmic Risk Begins With Consequences,A,Yes,No,14,Yes,No,Complete
+W4R1-08,Ridgeway Staffing,Algorithmic Risk Begins With Consequences,B,Yes,No,23,Yes,Yes,Complete

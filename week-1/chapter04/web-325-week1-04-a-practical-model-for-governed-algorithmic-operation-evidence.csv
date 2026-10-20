@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,system_action,documented_authority,observed_result,control_evidence,validation_issue
+W1R4-01,BrightPath Learning,A Practical Model for Governed Algorithmic Operation,Routine recommendation,Recommendation permitted,Recommendation delivered,Event and policy IDs match,None noted
+W1R4-02,BrightPath Learning,A Practical Model for Governed Algorithmic Operation,Low-value transaction,Autonomous below threshold,Executed below threshold,Amount and timestamp present,None noted
+W1R4-03,BrightPath Learning,A Practical Model for Governed Algorithmic Operation,High-value transaction,Human approval required,Executed automatically,No approval identifier,Authority exceeded
+W1R4-04,BrightPath Learning,A Practical Model for Governed Algorithmic Operation,Sensitive account change,Authenticated request required,Change completed,Authentication field blank,Evidence incomplete
+W1R4-05,BrightPath Learning,A Practical Model for Governed Algorithmic Operation,Restricted action,System prohibited,Action attempted and blocked,Control event present,Control operated
+W1R4-06,BrightPath Learning,A Practical Model for Governed Algorithmic Operation,Objective,Escalation required for exception,Exception closed,Escalation owner missing,Accountability unclear

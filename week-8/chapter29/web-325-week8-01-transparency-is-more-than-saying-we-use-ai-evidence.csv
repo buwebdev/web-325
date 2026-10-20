@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,event_type,decision_id,source_or_model,version,human_actor,outcome,validation_issue
+W8R1-01,Beacon Customer Care,"Transparency Is More Than Saying ""We Use AI""",Input,DEC-44,Customer request,UI-3.2,None,Received,Complete
+W8R1-02,Beacon Customer Care,"Transparency Is More Than Saying ""We Use AI""",Disclosure,DEC-44,Interface,Missing,None,Displayed,Version absent
+W8R1-03,Beacon Customer Care,"Transparency Is More Than Saying ""We Use AI""",Model output,DEC-44,Assist-2,Prompt-17,None,Recommendation,Complete
+W8R1-04,Beacon Customer Care,"Transparency Is More Than Saying ""We Use AI""",Account action,DEC-44,Service API,4.8,None,Executed,Authority record absent
+W8R1-05,Beacon Customer Care,"Transparency Is More Than Saying ""We Use AI""",Human review,DEC-45,Review queue,2.1,Agent-19,Accepted,Input event missing
+W8R1-06,Beacon Customer Care,"Transparency Is More Than Saying ""We Use AI""",What Transparency Does,DEC-45,Assist-2,Prompt-18,Agent-19,Executed,Decision IDs conflict

@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,control_claim,design_evidence,operating_evidence,sample_period,owner,validation_status
+W6R1-01,Polar Logistics,Successful Output Is Not Governance Evidence,High-impact actions require approval,Approved policy,Approval IDs for all samples,90 days,Operations,Supported
+W6R1-02,Polar Logistics,Successful Output Is Not Governance Evidence,Exceptions receive review,Workflow diagram,No review log,None,Governance,Not supported
+W6R1-03,Polar Logistics,Successful Output Is Not Governance Evidence,Changes require approval,Change policy,Three of five tickets,Six months,Engineering,Partially supported
+W6R1-04,Polar Logistics,Successful Output Is Not Governance Evidence,Disclosure remains active,Interface standard,Screenshot without version,One day,Product,Inconclusive
+W6R1-05,Polar Logistics,Successful Output Is Not Governance Evidence,Risk monitoring is quarterly,Monitoring plan,Current report,One quarter,Risk,Supported
+W6R1-06,Polar Logistics,Successful Output Is Not Governance Evidence,What Does Success Prove?,Remediation process,Open ticket without owner,Two quarters,Governance,Not operating

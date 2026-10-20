@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,event_type,decision_id,source_or_model,version,human_actor,outcome,validation_issue
+W8R4-01,Pioneer Banking,Documentation and Governance Evidence,Input,DEC-44,Customer request,UI-3.2,None,Received,Complete
+W8R4-02,Pioneer Banking,Documentation and Governance Evidence,Disclosure,DEC-44,Interface,Missing,None,Displayed,Version absent
+W8R4-03,Pioneer Banking,Documentation and Governance Evidence,Model output,DEC-44,Assist-2,Prompt-17,None,Recommendation,Complete
+W8R4-04,Pioneer Banking,Documentation and Governance Evidence,Account action,DEC-44,Service API,4.8,None,Executed,Authority record absent
+W8R4-05,Pioneer Banking,Documentation and Governance Evidence,Human review,DEC-45,Review queue,2.1,Agent-19,Accepted,Input event missing
+W8R4-06,Pioneer Banking,Documentation and Governance Evidence,What Documentation Does,DEC-45,Assist-2,Prompt-18,Agent-19,Executed,Decision IDs conflict

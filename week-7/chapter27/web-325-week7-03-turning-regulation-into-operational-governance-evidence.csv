@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,intended_purpose,context,affected_party,consequence,human_role,transparency,evidence_issue
+W7R3-01,TransNational Transit,Turning Regulation Into Operational Governance,Answer product questions,Retail site,Customer,Low,Monitor quality,AI disclosed,Complete
+W7R3-02,TransNational Transit,Turning Regulation Into Operational Governance,Rank job applicants,Employment,Applicant,High,Select interview pool,No notice,Human authority unclear
+W7R3-03,TransNational Transit,Turning Regulation Into Operational Governance,Detect safety hazard,Critical service,Public,High,Approve shutdown,Internal only,Control test missing
+W7R3-04,TransNational Transit,Turning Regulation Into Operational Governance,Generate public images,Advertising,Public,Moderate,Approve publication,Labels inconsistent,Version missing
+W7R3-05,TransNational Transit,Turning Regulation Into Operational Governance,Prioritize admissions,Education,Applicant,High,Review top candidates,General notice,Classification absent
+W7R3-06,TransNational Transit,Turning Regulation Into Operational Governance,External Requirements Become Internal Constraints,Internal operations,Employee,Low,Reverse result,Help page,Current version verified

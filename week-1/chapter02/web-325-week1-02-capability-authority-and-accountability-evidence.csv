@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,system_action,documented_authority,observed_result,control_evidence,validation_issue
+W1R2-01,Northwind Benefits,"Capability, Authority, and Accountability",Routine recommendation,Recommendation permitted,Recommendation delivered,Event and policy IDs match,None noted
+W1R2-02,Northwind Benefits,"Capability, Authority, and Accountability",Low-value transaction,Autonomous below threshold,Executed below threshold,Amount and timestamp present,None noted
+W1R2-03,Northwind Benefits,"Capability, Authority, and Accountability",High-value transaction,Human approval required,Executed automatically,No approval identifier,Authority exceeded
+W1R2-04,Northwind Benefits,"Capability, Authority, and Accountability",Sensitive account change,Authenticated request required,Change completed,Authentication field blank,Evidence incomplete
+W1R2-05,Northwind Benefits,"Capability, Authority, and Accountability",Restricted action,System prohibited,Action attempted and blocked,Control event present,Control operated
+W1R2-06,Northwind Benefits,"Capability, Authority, and Accountability",Capability,Escalation required for exception,Exception closed,Escalation owner missing,Accountability unclear

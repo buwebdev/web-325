@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,participant,action,stated_authority,next_owner,decision_evidence,validation_issue
+W3R1-01,Orion Fleet Services,Delegation Does Not Transfer Accountability,System,Flag exception,Recommend only,Operator,Event record complete,None noted
+W3R1-02,Orion Fleet Services,Delegation Does Not Transfer Accountability,Operator,Defer decision,Route routine cases,Manager,Reason missing,Decision basis absent
+W3R1-03,Orion Fleet Services,Delegation Does Not Transfer Accountability,Manager,Request specialist review,Approve within limit,Specialist,Request recorded,Deadline missing
+W3R1-04,Orion Fleet Services,Delegation Does Not Transfer Accountability,Specialist,Confirm risk,Advise only,Operator,Finding recorded,Final owner unclear
+W3R1-05,Orion Fleet Services,Delegation Does Not Transfer Accountability,System,Continue operation,No final authority,None,No approval ID,Unauthorized outcome
+W3R1-06,Orion Fleet Services,Delegation Does Not Transfer Accountability,Executive owner,Stop operation,Emergency authority,Governance,Decision complete,Late intervention

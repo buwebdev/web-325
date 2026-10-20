@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,governance_area,requirement,evidence,status,owner,due,validation_issue
+W9R2-01,Horizon Credit Union,Compliance Is Not the Finish Line,Authority,Actions match delegated authority,Approved matrix,Complete,Governance,Before launch,None noted
+W9R2-02,Horizon Credit Union,Compliance Is Not the Finish Line,Oversight,High-impact approval tested,Routine test only,Incomplete,Operations,Before launch,High-impact path untested
+W9R2-03,Horizon Credit Union,Compliance Is Not the Finish Line,Risk,Critical risks treated,Current register,Complete,Risk,Before launch,None noted
+W9R2-04,Horizon Credit Union,Compliance Is Not the Finish Line,Privacy,Rights workflow operates,Policy only,Incomplete,Privacy,Before launch,Production evidence absent
+W9R2-05,Horizon Credit Union,Compliance Is Not the Finish Line,Transparency,Disclosure is traceable,Unversioned screenshot,Incomplete,Product,Before launch,Version absent
+W9R2-06,Horizon Credit Union,Compliance Is Not the Finish Line,Monitoring,What Compliance Tells Us,Uptime dashboard,Missing,Engineering,Before launch,Impact measures absent

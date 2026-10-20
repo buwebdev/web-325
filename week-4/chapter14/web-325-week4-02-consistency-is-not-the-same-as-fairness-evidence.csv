@@ -1,0 +1,9 @@
+record_id,organization,chapter_focus,segment,eligible,positive_outcome,wait_hours,appealed,appeal_changed,data_quality
+W4R2-01,Oakstone Lending,Consistency Is Not the Same as Fairness,A,Yes,Yes,2,No,No,Complete
+W4R2-02,Oakstone Lending,Consistency Is Not the Same as Fairness,B,Yes,No,18,Yes,Yes,Complete
+W4R2-03,Oakstone Lending,Consistency Is Not the Same as Fairness,A,Yes,Yes,3,No,No,Complete
+W4R2-04,Oakstone Lending,Consistency Is Not the Same as Fairness,B,Yes,No,21,Yes,Yes,Decision reason missing
+W4R2-05,Oakstone Lending,Consistency Is Not the Same as Fairness,A,No,No,12,No,No,Eligibility evidence incomplete
+W4R2-06,Oakstone Lending,Consistency Is Not the Same as Fairness,B,Yes,Yes,4,No,No,Complete
+W4R2-07,Oakstone Lending,Consistency Is Not the Same as Fairness,A,Yes,No,14,Yes,No,Complete
+W4R2-08,Oakstone Lending,Consistency Is Not the Same as Fairness,B,Yes,No,23,Yes,Yes,Complete

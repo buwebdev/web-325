@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,governance_area,requirement,evidence,status,owner,due,validation_issue
+W9R4-01,Vertex Commerce,Governance Continues After Deployment,Authority,Actions match delegated authority,Approved matrix,Complete,Governance,Before launch,None noted
+W9R4-02,Vertex Commerce,Governance Continues After Deployment,Oversight,High-impact approval tested,Routine test only,Incomplete,Operations,Before launch,High-impact path untested
+W9R4-03,Vertex Commerce,Governance Continues After Deployment,Risk,Critical risks treated,Current register,Complete,Risk,Before launch,None noted
+W9R4-04,Vertex Commerce,Governance Continues After Deployment,Privacy,Rights workflow operates,Policy only,Incomplete,Privacy,Before launch,Production evidence absent
+W9R4-05,Vertex Commerce,Governance Continues After Deployment,Transparency,Disclosure is traceable,Unversioned screenshot,Incomplete,Product,Before launch,Version absent
+W9R4-06,Vertex Commerce,Governance Continues After Deployment,Monitoring,Deployment Is a Starting Condition,Uptime dashboard,Missing,Engineering,Before launch,Impact measures absent

@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,data_element,original_purpose,proposed_use,notice,retention,access,rights_status
+W5R3-01,Homeward Insurance,"Privacy Rights, Transparency, and Data Lifecycle Governance",Email,Account communication,Service notice,Disclosed,Account life,Service,None
+W5R3-02,Homeward Insurance,"Privacy Rights, Transparency, and Data Lifecycle Governance",Precise location,Requested service,Behavior prediction,Original purpose only,Indefinite,Analytics,Deletion pending
+W5R3-03,Homeward Insurance,"Privacy Rights, Transparency, and Data Lifecycle Governance",Transaction history,Billing,Risk model,General privacy notice,Seven years,Finance and analytics,None
+W5R3-04,Homeward Insurance,"Privacy Rights, Transparency, and Data Lifecycle Governance",Support transcript,Resolve case,Model training,Not disclosed,Indefinite,Vendor,Opt out received
+W5R3-05,Homeward Insurance,"Privacy Rights, Transparency, and Data Lifecycle Governance",Sensitive preference,Personalize service,Advertising segment,Service notice only,Account life,Marketing,None
+W5R3-06,Homeward Insurance,"Privacy Rights, Transparency, and Data Lifecycle Governance",Individual Rights Create Operational Requirements,Security,Unspecified future use,Security notice,Two years,All product teams,None

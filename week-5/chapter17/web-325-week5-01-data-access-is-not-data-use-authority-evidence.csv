@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,data_element,original_purpose,proposed_use,notice,retention,access,rights_status
+W5R1-01,WellSpring Fitness,Data Access Is Not Data-Use Authority,Email,Account communication,Service notice,Disclosed,Account life,Service,None
+W5R1-02,WellSpring Fitness,Data Access Is Not Data-Use Authority,Precise location,Requested service,Behavior prediction,Original purpose only,Indefinite,Analytics,Deletion pending
+W5R1-03,WellSpring Fitness,Data Access Is Not Data-Use Authority,Transaction history,Billing,Risk model,General privacy notice,Seven years,Finance and analytics,None
+W5R1-04,WellSpring Fitness,Data Access Is Not Data-Use Authority,Support transcript,Resolve case,Model training,Not disclosed,Indefinite,Vendor,Opt out received
+W5R1-05,WellSpring Fitness,Data Access Is Not Data-Use Authority,Sensitive preference,Personalize service,Advertising segment,Service notice only,Account life,Marketing,None
+W5R1-06,WellSpring Fitness,Data Access Is Not Data-Use Authority,Technical Access,Security,Unspecified future use,Security notice,Two years,All product teams,None

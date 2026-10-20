@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,data_element,original_purpose,proposed_use,notice,retention,access,rights_status
+W5R4-01,CampusConnect,Building a Governed Data Decision,Email,Account communication,Service notice,Disclosed,Account life,Service,None
+W5R4-02,CampusConnect,Building a Governed Data Decision,Precise location,Requested service,Behavior prediction,Original purpose only,Indefinite,Analytics,Deletion pending
+W5R4-03,CampusConnect,Building a Governed Data Decision,Transaction history,Billing,Risk model,General privacy notice,Seven years,Finance and analytics,None
+W5R4-04,CampusConnect,Building a Governed Data Decision,Support transcript,Resolve case,Model training,Not disclosed,Indefinite,Vendor,Opt out received
+W5R4-05,CampusConnect,Building a Governed Data Decision,Sensitive preference,Personalize service,Advertising segment,Service notice only,Account life,Marketing,None
+W5R4-06,CampusConnect,Building a Governed Data Decision,Step 1 — Define the Purpose,Security,Unspecified future use,Security notice,Two years,All product teams,None

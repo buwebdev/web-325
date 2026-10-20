@@ -1,0 +1,9 @@
+record_id,organization,chapter_focus,segment,eligible,positive_outcome,wait_hours,appealed,appeal_changed,data_quality
+W4R4-01,Meridian Talent,From Risk Identification to Governance Response,A,Yes,Yes,2,No,No,Complete
+W4R4-02,Meridian Talent,From Risk Identification to Governance Response,B,Yes,No,18,Yes,Yes,Complete
+W4R4-03,Meridian Talent,From Risk Identification to Governance Response,A,Yes,Yes,3,No,No,Complete
+W4R4-04,Meridian Talent,From Risk Identification to Governance Response,B,Yes,No,21,Yes,Yes,Decision reason missing
+W4R4-05,Meridian Talent,From Risk Identification to Governance Response,A,No,No,12,No,No,Eligibility evidence incomplete
+W4R4-06,Meridian Talent,From Risk Identification to Governance Response,B,Yes,Yes,4,No,No,Complete
+W4R4-07,Meridian Talent,From Risk Identification to Governance Response,A,Yes,No,14,Yes,No,Complete
+W4R4-08,Meridian Talent,From Risk Identification to Governance Response,B,Yes,No,23,Yes,Yes,Complete

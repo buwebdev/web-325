@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,participant,action,stated_authority,next_owner,decision_evidence,validation_issue
+W3R4-01,Evergreen Health Network,Making Accountability Visible Through Governance Decision Maps,System,Flag exception,Recommend only,Operator,Event record complete,None noted
+W3R4-02,Evergreen Health Network,Making Accountability Visible Through Governance Decision Maps,Operator,Defer decision,Route routine cases,Manager,Reason missing,Decision basis absent
+W3R4-03,Evergreen Health Network,Making Accountability Visible Through Governance Decision Maps,Manager,Request specialist review,Approve within limit,Specialist,Request recorded,Deadline missing
+W3R4-04,Evergreen Health Network,Making Accountability Visible Through Governance Decision Maps,Specialist,Confirm risk,Advise only,Operator,Finding recorded,Final owner unclear
+W3R4-05,Evergreen Health Network,Making Accountability Visible Through Governance Decision Maps,System,Continue operation,No final authority,None,No approval ID,Unauthorized outcome
+W3R4-06,Evergreen Health Network,Making Accountability Visible Through Governance Decision Maps,Executive owner,Stop operation,Emergency authority,Governance,Decision complete,Late intervention

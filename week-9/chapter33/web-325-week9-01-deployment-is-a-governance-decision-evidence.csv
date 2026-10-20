@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,governance_area,requirement,evidence,status,owner,due,validation_issue
+W9R1-01,Northstar Assist,Deployment Is a Governance Decision,Authority,Actions match delegated authority,Approved matrix,Complete,Governance,Before launch,None noted
+W9R1-02,Northstar Assist,Deployment Is a Governance Decision,Oversight,High-impact approval tested,Routine test only,Incomplete,Operations,Before launch,High-impact path untested
+W9R1-03,Northstar Assist,Deployment Is a Governance Decision,Risk,Critical risks treated,Current register,Complete,Risk,Before launch,None noted
+W9R1-04,Northstar Assist,Deployment Is a Governance Decision,Privacy,Rights workflow operates,Policy only,Incomplete,Privacy,Before launch,Production evidence absent
+W9R1-05,Northstar Assist,Deployment Is a Governance Decision,Transparency,Disclosure is traceable,Unversioned screenshot,Incomplete,Product,Before launch,Version absent
+W9R1-06,Northstar Assist,Deployment Is a Governance Decision,Monitoring,Technical Readiness,Uptime dashboard,Missing,Engineering,Before launch,Impact measures absent

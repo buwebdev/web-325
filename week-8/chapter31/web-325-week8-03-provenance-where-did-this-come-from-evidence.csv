@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,event_type,decision_id,source_or_model,version,human_actor,outcome,validation_issue
+W8R3-01,Storyline Media,Provenance: Where Did This Come From?,Input,DEC-44,Customer request,UI-3.2,None,Received,Complete
+W8R3-02,Storyline Media,Provenance: Where Did This Come From?,Disclosure,DEC-44,Interface,Missing,None,Displayed,Version absent
+W8R3-03,Storyline Media,Provenance: Where Did This Come From?,Model output,DEC-44,Assist-2,Prompt-17,None,Recommendation,Complete
+W8R3-04,Storyline Media,Provenance: Where Did This Come From?,Account action,DEC-44,Service API,4.8,None,Executed,Authority record absent
+W8R3-05,Storyline Media,Provenance: Where Did This Come From?,Human review,DEC-45,Review queue,2.1,Agent-19,Accepted,Input event missing
+W8R3-06,Storyline Media,Provenance: Where Did This Come From?,What Provenance Means,DEC-45,Assist-2,Prompt-18,Agent-19,Executed,Decision IDs conflict

@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,event_type,decision_id,source_or_model,version,human_actor,outcome,validation_issue
+W8R2-01,ForgeWorks Manufacturing,Traceability: Following the Decision,Input,DEC-44,Customer request,UI-3.2,None,Received,Complete
+W8R2-02,ForgeWorks Manufacturing,Traceability: Following the Decision,Disclosure,DEC-44,Interface,Missing,None,Displayed,Version absent
+W8R2-03,ForgeWorks Manufacturing,Traceability: Following the Decision,Model output,DEC-44,Assist-2,Prompt-17,None,Recommendation,Complete
+W8R2-04,ForgeWorks Manufacturing,Traceability: Following the Decision,Account action,DEC-44,Service API,4.8,None,Executed,Authority record absent
+W8R2-05,ForgeWorks Manufacturing,Traceability: Following the Decision,Human review,DEC-45,Review queue,2.1,Agent-19,Accepted,Input event missing
+W8R2-06,ForgeWorks Manufacturing,Traceability: Following the Decision,What Traceability Means,DEC-45,Assist-2,Prompt-18,Agent-19,Executed,Decision IDs conflict

@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,consequence,confidence,reversible,actual_mode,review_time_seconds,evidence_issue
+W2R4-01,Summit Claims,When Human Oversight Becomes an Illusion,Low,0.98,Yes,Autonomous,0,None noted
+W2R4-02,Summit Claims,When Human Oversight Becomes an Illusion,Moderate,0.74,Yes,Human review,6,Review may be cursory
+W2R4-03,Summit Claims,When Human Oversight Becomes an Illusion,High,0.94,No,Autonomous,0,No approval
+W2R4-04,Summit Claims,When Human Oversight Becomes an Illusion,High,0.61,No,Human approval,52,Decision recorded
+W2R4-05,Summit Claims,When Human Oversight Becomes an Illusion,Moderate,0.42,Yes,Autonomous,0,Uncertainty ignored
+W2R4-06,Summit Claims,When Human Oversight Becomes an Illusion,Critical exception,0.88,No,Escalation,420,Escalation owner recorded

@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,system_action,documented_authority,observed_result,control_evidence,validation_issue
+W1R3-01,Cedar Valley Supply,Governance Controls: Turning Expectations into System Behavior,Routine recommendation,Recommendation permitted,Recommendation delivered,Event and policy IDs match,None noted
+W1R3-02,Cedar Valley Supply,Governance Controls: Turning Expectations into System Behavior,Low-value transaction,Autonomous below threshold,Executed below threshold,Amount and timestamp present,None noted
+W1R3-03,Cedar Valley Supply,Governance Controls: Turning Expectations into System Behavior,High-value transaction,Human approval required,Executed automatically,No approval identifier,Authority exceeded
+W1R3-04,Cedar Valley Supply,Governance Controls: Turning Expectations into System Behavior,Sensitive account change,Authenticated request required,Change completed,Authentication field blank,Evidence incomplete
+W1R3-05,Cedar Valley Supply,Governance Controls: Turning Expectations into System Behavior,Restricted action,System prohibited,Action attempted and blocked,Control event present,Control operated
+W1R3-06,Cedar Valley Supply,Governance Controls: Turning Expectations into System Behavior,Controls Create Operational Boundaries,Escalation required for exception,Exception closed,Escalation owner missing,Accountability unclear

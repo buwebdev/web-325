@@ -1,0 +1,9 @@
+record_id,organization,chapter_focus,segment,eligible,positive_outcome,wait_hours,appealed,appeal_changed,data_quality
+W4R3-01,CityLink Support,Identifying Bias Through Governance Evidence,A,Yes,Yes,2,No,No,Complete
+W4R3-02,CityLink Support,Identifying Bias Through Governance Evidence,B,Yes,No,18,Yes,Yes,Complete
+W4R3-03,CityLink Support,Identifying Bias Through Governance Evidence,A,Yes,Yes,3,No,No,Complete
+W4R3-04,CityLink Support,Identifying Bias Through Governance Evidence,B,Yes,No,21,Yes,Yes,Decision reason missing
+W4R3-05,CityLink Support,Identifying Bias Through Governance Evidence,A,No,No,12,No,No,Eligibility evidence incomplete
+W4R3-06,CityLink Support,Identifying Bias Through Governance Evidence,B,Yes,Yes,4,No,No,Complete
+W4R3-07,CityLink Support,Identifying Bias Through Governance Evidence,A,Yes,No,14,Yes,No,Complete
+W4R3-08,CityLink Support,Identifying Bias Through Governance Evidence,B,Yes,No,23,Yes,Yes,Complete

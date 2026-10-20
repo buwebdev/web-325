@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,control_claim,design_evidence,operating_evidence,sample_period,owner,validation_status
+W6R3-01,ClearWater Benefits,"Evidence Quality, Gaps, and Traceability",High-impact actions require approval,Approved policy,Approval IDs for all samples,90 days,Operations,Supported
+W6R3-02,ClearWater Benefits,"Evidence Quality, Gaps, and Traceability",Exceptions receive review,Workflow diagram,No review log,None,Governance,Not supported
+W6R3-03,ClearWater Benefits,"Evidence Quality, Gaps, and Traceability",Changes require approval,Change policy,Three of five tickets,Six months,Engineering,Partially supported
+W6R3-04,ClearWater Benefits,"Evidence Quality, Gaps, and Traceability",Disclosure remains active,Interface standard,Screenshot without version,One day,Product,Inconclusive
+W6R3-05,ClearWater Benefits,"Evidence Quality, Gaps, and Traceability",Risk monitoring is quarterly,Monitoring plan,Current report,One quarter,Risk,Supported
+W6R3-06,ClearWater Benefits,"Evidence Quality, Gaps, and Traceability",Evidence Should Be Specific,Remediation process,Open ticket without owner,Two quarters,Governance,Not operating

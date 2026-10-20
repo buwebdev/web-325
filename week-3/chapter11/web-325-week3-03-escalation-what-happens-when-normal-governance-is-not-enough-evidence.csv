@@ -1,0 +1,7 @@
+record_id,organization,chapter_focus,participant,action,stated_authority,next_owner,decision_evidence,validation_issue
+W3R3-01,CivicWorks Permitting,Escalation: What Happens When Normal Governance Is Not Enough?,System,Flag exception,Recommend only,Operator,Event record complete,None noted
+W3R3-02,CivicWorks Permitting,Escalation: What Happens When Normal Governance Is Not Enough?,Operator,Defer decision,Route routine cases,Manager,Reason missing,Decision basis absent
+W3R3-03,CivicWorks Permitting,Escalation: What Happens When Normal Governance Is Not Enough?,Manager,Request specialist review,Approve within limit,Specialist,Request recorded,Deadline missing
+W3R3-04,CivicWorks Permitting,Escalation: What Happens When Normal Governance Is Not Enough?,Specialist,Confirm risk,Advise only,Operator,Finding recorded,Final owner unclear
+W3R3-05,CivicWorks Permitting,Escalation: What Happens When Normal Governance Is Not Enough?,System,Continue operation,No final authority,None,No approval ID,Unauthorized outcome
+W3R3-06,CivicWorks Permitting,Escalation: What Happens When Normal Governance Is Not Enough?,Executive owner,Stop operation,Emergency authority,Governance,Decision complete,Late intervention
